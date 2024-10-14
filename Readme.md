@@ -1,6 +1,6 @@
 ## AJS_Async-Async-Await
 
-
+[![Build status](https://ci.appveyor.com/api/projects/status/f7uqligxcc8w3qls?svg=true)](https://ci.appveyor.com/project/CoolPaK/ajs-async-async-await)
 ---
 # Домашнее задание к лекции «Promises, async/await»
 
